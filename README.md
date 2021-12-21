@@ -1,4 +1,4 @@
-# JavaCalculator
+# Java Calculator
 
 A simple calculator program which can validate correct input and can also sanitize the
 input before calculating the result.
