@@ -16,7 +16,7 @@ Programming Language used : Java
 
 IDE used : IntelliJ IDEA
 
-This calculator program can do basic calculation over two operands which includes +, - *, / operations. 
+This calculator program can do basic calculation over two operands which includes +, -, *, / operations. 
 
 To validate that the input provided is an integer, Long.MIN_VALUE and Long.MAX_VALUE ranges are used in the If block.
 
